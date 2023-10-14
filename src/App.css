@@ -1,0 +1,34 @@
+
+.box{
+  width: 50px;
+  height: 50px;
+  border: 2px solid rgb(247, 243, 245);
+  margin: 2px;
+  display: flex;
+}
+#container{
+  display: flex;
+  width: 100%;
+  height: 40%;
+  justify-content: center;
+  align-items: last baseline;
+  background-color: rgb(199, 97, 134);
+  padding: 30vh 0vw;
+}
+center{
+  height: 40vh;
+}
+button{
+  padding:2vh 3vw;
+  border-radius:10px;
+  background-color: rgb(69, 218, 79);
+  border:2px solid rgb(240, 6, 10);
+}
+p{
+  position: absolute;
+  top:0;
+  left:38%;
+  color: #090909; 
+  font-size: 4vw;
+  opacity: 0.3;
+}
